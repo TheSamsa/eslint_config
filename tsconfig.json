@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"declaration": true,
+		"emitDecoratorMetadata": true,
+		"esModuleInterop": true,
+		"experimentalDecorators": true,
+		"module": "CommonJS",
+		"moduleResolution": "Node",
+		"outDir": "dist",
+		"strictNullChecks": true,
+		"target": "ES2022"
+	},
+	"include": [
+		"configs/**/*.ts",
+		"plugins/**/*.ts",
+		"tools/**/*.ts"
+	]
+}

@@ -1,0 +1,5 @@
+**
+!config/
+!eslint.config.js
+!package.json
+!yarn.lock
